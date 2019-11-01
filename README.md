@@ -1,1 +1,1 @@
-
+<!-- Estilos para texto plano -->
